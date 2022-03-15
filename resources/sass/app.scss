@@ -1,0 +1,13 @@
+// Fonts
+$font-family-sans-serif : 'Ubuntu', 'Padauk',  sans-serif ;
+
+
+$primary : #1b9aaa ;
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Swal 
+$swal2-confirm-button-background-color: $primary ;
+@import '~sweetalert2/src/sweetalert2' ;
+
